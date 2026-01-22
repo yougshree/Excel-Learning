@@ -1,16 +1,15 @@
-<h1>Objective:</h1>
+## Objective
 Split raw data into separate columns and extract first and last names.
 
-<h1>Steps Used:</h1>
-1. Used Text to Columns (comma-separated) to split data
-2. Used Flash Fill to extract First Name
-3. Used Flash Fill to extract Last Name
+## Steps Used
+1. Used **Text to Columns** (comma-separated) to split data  
+2. Extracted **First Name** using pattern-based filling  
+3. Extracted **Last Name** using pattern-based filling  
 
-<h1>What I Learned:</h1>
-- How to split data using Text to Columns
-- How Flash Fill detects patterns automatically
-- Faster way to clean name data
+## What I Learned
+- How to split data using Text to Columns  
+- How pattern detection works for name extraction  
+- Faster ways to clean and structure raw data  
 
-File Link
-https://docs.google.com/spreadsheets/d/1wNSjF0A9pjXPklZS1M1mQDEk-Hpw6UUimSoKocl4zxY/edit?usp=sharing
-
+## File Link
+🔗 [View Google Sheet (Read Only)](https://docs.google.com/spreadsheets/d/1wNSjF0A9pjXPklZS1M1mQDEk-Hpw6UUimSoKocl4zxY/edit?usp=sharing)
