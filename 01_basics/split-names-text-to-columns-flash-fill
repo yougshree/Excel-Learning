@@ -1,0 +1,12 @@
+<h1>Objective:</h1>
+Split raw data into separate columns and extract first and last names.
+
+<h1>Steps Used:</h1>
+1. Used Text to Columns (comma-separated) to split data
+2. Used Flash Fill to extract First Name
+3. Used Flash Fill to extract Last Name
+
+<h1>What I Learned:</h1>
+- How to split data using Text to Columns
+- How Flash Fill detects patterns automatically
+- Faster way to clean name data
