@@ -1,0 +1,27 @@
+Taking notes:
+1) ADD: 
+=d2+e2  
+Drag and double-click to make it for all rows
+2)Set the column width for all columns to 15.
+select all, cursor-right-click
+width
+custom-15.
+3)Make column headers: First letter Capital, rest lowercase
+change the names by clicking
+4)substract
+=A2-B2
+5)Average:   https://youtube.com/shorts/NOnOE1CZL9s?si=_5QZBM81OL-JW5q9
+=AVERAGE(COLUMN2:COULMN LAST)
+6)Round average Decimal in 2:
+=Round(AVERAGE(COLUMN2:COULMN LAST),2)
+7)Create a table from data:
+ctrl+A, insert tab, click table. you can use designs left->upper side.
+8)Sorting data
+Go, left upperside, select sort, custom sort, then use multiple column for sorting.
+9) Currency\
+Go to number setion, click currency
+10)Write a formula that calculates the difference between OrderDate and DeliveryDueDate for each row.
+=[@DeliveryDueDate] - [@OrderDate]
+IT will give the wrong answer, so convert the column into a number from currency.
+11)How many days on average does it take for Adventure Works to deliver once a customer has placed an order? Round to the nearest whole number.
+=ROUND(AVERAGE(H2:H1202),0)
